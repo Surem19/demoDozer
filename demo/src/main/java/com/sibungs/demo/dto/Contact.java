@@ -9,7 +9,7 @@ import javax.persistence.Id;
 @Entity
 public class Contact implements Serializable {
 
-    private static final long serialVersionUID = 4894729030347835498L;
+    private static final long  serialVersionUID = 4894729030347835498L;
 
     @Id
     @GeneratedValue
